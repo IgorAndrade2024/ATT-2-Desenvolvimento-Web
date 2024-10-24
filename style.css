@@ -1,0 +1,33 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(2, 2, 90);
+    height: 120px;
+}
+#logo{
+    scale: 0.5;
+}
+nav,footer{
+    background-color: rgb(2, 2, 90);
+    border-top: solid rgb(255, 193, 7) 5px;
+    border-bottom: solid rgb(255, 193, 7) 5px;
+}
+.vaivolta{
+    border: 2px solid rgb(255, 193, 7);
+}
+.btn{
+    margin: 10px;
+}
+main{
+    background-color: rgb(2, 2, 90);
+}
+.carousel-inner{
+    border-radius: 15px;
+    border: 2px solid rgb(255, 193, 7);
+}
+.texto{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 193, 7);
+}
